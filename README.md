@@ -1,4 +1,4 @@
-<h1 align="center">🚗 Cars Dataset Analysis | Python (EDA & Visualization)</h1>
+<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> Cars Dataset Analysis | Python (EDA & Visualization)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
